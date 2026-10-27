@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Little Green Light is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://littlegreenlight.com/
+Little Green Light provides cloud‑based donor management software for nonprofits, offering tools to track donations, manage contacts, run fundraising campaigns, and generate reports. It aims to help small and mid‑size charitable organizations streamline their operations and improve donor relationships.
+
+**Areas:** Donor Management · Nonprofit Software · Fundraising · Online Donations · Data Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://littlegreenlight.com/)
+- [Documentation](https://help.littlegreenlight.com/)
+- [Getting started](https://help.littlegreenlight.com/category/16-getting-started)
+- [Pricing](https://www.littlegreenlight.com/pricing/)
+- [Sign up](https://www.littlegreenlight.com/signup)
+- [Support](https://www.littlegreenlight.com/support/)
+- [Blog](https://www.littlegreenlight.com/blog/)
+- [Security](https://www.littlegreenlight.com/security/)
+- [Terms of service](https://www.littlegreenlight.com/terms/)
+- [Privacy policy](https://www.littlegreenlight.com/privacypolicy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/little-green-light/](https://apis.io/providers/little-green-light/).
